@@ -1,5 +1,3 @@
 <img src="./hello.png">
 
-## Hello :wave:,
-
-## I'm Mike 👨🏾‍🎨 && 👨🏾‍💻 @ <a href="https://heydays.no">Heydays
+<p style="font-size: 50px; text-align: center;">Hello :wave:,<br/> I'm Mike 👨🏾‍🎨 && 👨🏾‍💻 @ <a href="https://heydays.no">Heydays</p>
