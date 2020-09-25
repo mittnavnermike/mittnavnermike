@@ -1,2 +1,3 @@
-<img src="./image.svg" width="1000px" height="500px" />
-# Hello :wave:
+# Hello :wave: I'm Mike 👨🏾‍🎨 && 👨🏾‍💻 @ [Heydays]("https://heydays.no")
+
+<img src="./image.svg">
