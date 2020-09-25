@@ -1,3 +1,3 @@
-# Hello :wave: I'm Mike 👨🏾‍🎨 && 👨🏾‍💻 @ [Heydays]("https://heydays.no")
+<img src="./hello.png">
 
-<img src="https://raw.githubusercontent.com/mittnavnermike/mittnavnermike/master/image.svg">
+# Hello :wave: I'm Mike 👨🏾‍🎨 && 👨🏾‍💻 @ <a href="https://heydays.no">Heydays
