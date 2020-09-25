@@ -1,4 +1,6 @@
 <svg
+  width="1000"
+  height="500"
         viewBox="0 0 3000 3000"
         preserveAspectRatio="xMidYMid slice"
         className="flex-shrink-0"
@@ -7,62 +9,50 @@
 <radialGradient id="rg0" fx="0.33659108076628175" fy="0.5">
 <stop offset="0%" stop-color="#5135FF"></stop>
 <stop offset="100%" stop-color="#5135FF" stop-opacity="0"></stop>
-<Animate />
 </radialGradient>
 <radialGradient id="rg0" fx="0.3731575064088745" fy="0.5">
 <stop offset="0%" stop-color="#5135FF"></stop>
 <stop offset="100%" stop-color="#5135FF" stop-opacity="0"></stop>
-<Animate />
 </radialGradient>
 <radialGradient id="rg0" fx="0.303417097700693" fy="0.5">
 <stop offset="0%" stop-color="#5135FF"></stop>
 <stop offset="100%" stop-color="#5135FF" stop-opacity="0"></stop>
-<Animate />
 </radialGradient>
 <radialGradient id="rg1" fx="0.3087221818808073" fy="0.5">
 <stop offset="0%" stop-color="#FF5828"></stop>
 <stop offset="100%" stop-color="#FF5828" stop-opacity="0"></stop>
-<Animate />
 </radialGradient>
 <radialGradient id="rg1" fx="0.3010152830018639" fy="0.5">
 <stop offset="0%" stop-color="#FF5828"></stop>
 <stop offset="100%" stop-color="#FF5828" stop-opacity="0"></stop>
-<Animate />
 </radialGradient>
 <radialGradient id="rg1" fx="0.3120550041118115" fy="0.5">
 <stop offset="0%" stop-color="#FF5828"></stop>
 <stop offset="100%" stop-color="#FF5828" stop-opacity="0"></stop>
-<Animate />
 </radialGradient>
 <radialGradient id="rg2" fx="0.36701211593031036" fy="0.5">
 <stop offset="0%" stop-color="#F69CFF"></stop>
 <stop offset="100%" stop-color="#F69CFF" stop-opacity="0"></stop>
-<Animate />
 </radialGradient>
 <radialGradient id="rg2" fx="0.37114708439694366" fy="0.5">
 <stop offset="0%" stop-color="#F69CFF"></stop>
 <stop offset="100%" stop-color="#F69CFF" stop-opacity="0"></stop>
-<Animate />
 </radialGradient>
 <radialGradient id="rg2" fx="0.3720105129278145" fy="0.5">
 <stop offset="0%" stop-color="#F69CFF"></stop>
 <stop offset="100%" stop-color="#F69CFF" stop-opacity="0"></stop>
-<Animate />
 </radialGradient>
 <radialGradient id="rg3" fx="0.35238451400665216" fy="0.5">
 <stop offset="0%" stop-color="#FFA50F"></stop>
 <stop offset="100%" stop-color="#FFA50F" stop-opacity="0"></stop>
-<Animate />
 </radialGradient>
 <radialGradient id="rg3" fx="0.3354897903556673" fy="0.5">
 <stop offset="0%" stop-color="#FFA50F"></stop>
 <stop offset="100%" stop-color="#FFA50F" stop-opacity="0"></stop>
-<Animate />
 </radialGradient>
 <radialGradient id="rg3" fx="0.3898052957444661" fy="0.5">
 <stop offset="0%" stop-color="#FFA50F"></stop>
 <stop offset="100%" stop-color="#FFA50F" stop-opacity="0"></stop>
-<Animate />
 </radialGradient>
 </defs>
 <rect id="bg" x="0" y="0" width="100%" height="100%"></rect>
